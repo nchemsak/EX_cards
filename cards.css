@@ -1,0 +1,14 @@
+#wrapper {
+  margin: 20px auto auto 20px;
+}
+
+div {
+  margin: 10px;
+  /*height: 200px;*/
+  background-color: red;
+  outline: 1px solid black;
+}
+
+button {
+  /*margin-left: 500px;*/
+}
